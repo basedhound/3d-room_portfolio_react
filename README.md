@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://3d-room-pfolio.vercel.app" target="_blank">
+    <a href="https://3d-room-fv.vercel.app" target="_blank">
       <img src="public/images/readme.png" alt="Project Banner">
     </a>
   <br />
